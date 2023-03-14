@@ -603,6 +603,7 @@ function Create()
         setoptionTwo("");
         setoptionThree("");
         localStorage.setItem('questions', '[]');
+        
     }
     
 
